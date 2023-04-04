@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/note-app/static/css/main.85f62878.css",
+    "main.js": "/note-app/static/js/main.4d33d59d.js",
+    "index.html": "/note-app/index.html",
+    "static/media/search.svg": "/note-app/static/media/search.504bafe2d4eb6caaf66faa81010f66cf.svg",
+    "main.85f62878.css.map": "/note-app/static/css/main.85f62878.css.map",
+    "main.4d33d59d.js.map": "/note-app/static/js/main.4d33d59d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85f62878.css",
+    "static/js/main.4d33d59d.js"
+  ]
+}
